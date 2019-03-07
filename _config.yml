@@ -4,7 +4,7 @@ name: Luqman Bachtiar
 description: Every step leaves its print; work steadily and make solid progress
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://lrbachtiar.github.io/blog_luqman
+# url: https://lrbachtiar.github.io/blog_luqman
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
